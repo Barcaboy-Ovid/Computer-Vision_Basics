@@ -1,7 +1,6 @@
 # Computer Vision Basics ~ University at Buffalo and The State University of New York
 
 [![Course-list](https://img.shields.io/badge/also%20see-Other%20Coursera%20Courses-1f72ff.svg)](https://github.com/Barcaboy-Ovid/Course-List)
-[![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
 [![platform](https://img.shields.io/badge/Coursera-Course%20Link-1f72ff.svg)](https://www.coursera.org/learn/computer-vision-basics)
 
 ## 📖 Overview
