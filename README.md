@@ -29,4 +29,4 @@
 - [MATLAB: Aligning RBG Channels](week-4/aligning_rgb_channels.m)
 
 ## 🎓 [Certificate]()
-![certificate](assets/Anto_Ovid_GS_Certificate.jpeg)
+![certificate](assets/Anto_Ovid_GS_Certificate.jpg)
